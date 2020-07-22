@@ -6,9 +6,12 @@ pip install flask-migrate
 pip install flask-login
 pip install email-validator
 pip install flask-mail
+# python interface to JSON stuff
 pip install pyjwt
+# flask interface to bootstrap css
 pip install flask-bootstrap
-
+# flask interface to moment, time-related js library
+pip install flask-moment
 
 
 
