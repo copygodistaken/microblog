@@ -14,6 +14,8 @@ class Config(object):
 	ADMINS = ['eric@33ad.org']
 	POSTS_PER_PAGE = 10
 	LANGUAGES = ['en', 'es']
-
+	# add ms translator key IAW 
+	# https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiv-ajax
+	# MS_TRANSLATOR_KEY = ""
 
 
