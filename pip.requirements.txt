@@ -12,6 +12,8 @@ pip install pyjwt
 pip install flask-bootstrap
 # flask interface to moment, time-related js library
 pip install flask-moment
+# flask translations (duh)
+pip install flask-babel
 
 
 
